@@ -55,12 +55,6 @@ The dataset includes historical gold price data along with economic indicators t
 - Integrate real-time gold price updates.
 - Deploy the application on cloud platforms.
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
-
 ---
 **Author:** Mohammed Khaled
 
